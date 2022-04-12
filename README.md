@@ -30,6 +30,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [Mit](https://opensource.org/licenses/MIT)
 
+[Patika Ödev](https://app.patika.dev/courses/git/odev1)
+
 
 
 
