@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 ![Proje Resmi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 ## Installation 
------
+
 
 Öncelikle projeyi clonlayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
@@ -12,7 +12,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 git clone  https://github.com/AKINKAZAR/kodluyoruzilkrepo.git
 ```
 ## Usage 
-------
+
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
@@ -22,12 +22,12 @@ cd kodluyoruzilkrepo
 code .
 ```
 ## Contributing
-------
+
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için konu açınız.
 
 ## License
------
+
 [Mit](https://opensource.org/licenses/MIT)
 
 
